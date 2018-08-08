@@ -31,9 +31,9 @@ Response:
     }
 
 Response codes:
-- 201 - If purchase was created
-- 400 - If problems was found on request payload
-- 403 - If the head parameter Bearer was not found
+- 201 - If purchase is created
+- 400 - If problems is found on request payload
+- 403 - If the head parameter Bearer is not found
 
 > Get all purchase stored
 
@@ -55,6 +55,6 @@ Response:
     ]
 
 Response codes:
-- 201 - If purchase was created
-- 400 - If problems was found on request payload
-- 403 - If the head parameter Bearer was not found
+- 201 - If purchase is created
+- 400 - If problems is found on request payload
+- 403 - If the head parameter Bearer is not found
