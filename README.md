@@ -11,7 +11,7 @@ purchase-api needs the Postgres database.
 
 ## API Reference
 
-> At bellow are the exposed services:
+> At below are the exposed services:
 > Create new purchase
 
 URI : /purchase
